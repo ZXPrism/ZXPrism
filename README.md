@@ -1,6 +1,8 @@
 I am **ZXPrism**, a student of Zhejiang University majoring Electronic and Information Engineering.
 
-I'm insterested in a wide variety of things, especially in computer graphics and embeded development.
+I'm insterested in a wide variety of things, especially in **computer graphics** and **embeded development**.
+
+Sometimes I will craft some intriguing gizmos, like balance cars, railguns, etc.
 
 Lately I've been fascinated by Codeforces and my short-term goal is to be a **specialist**.
 
