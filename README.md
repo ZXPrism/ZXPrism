@@ -1,4 +1,4 @@
-I am **ZXPrism**, a student of Zhejiang University majoring Electronic and Information Engineering.
+I am **ZXPrism**, an undergraduate from Zhejiang University majoring Electronic and Information Engineering.
 
 I'm insterested in a wide variety of things, especially in **computer graphics** and **embeded development**.
 
