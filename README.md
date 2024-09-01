@@ -4,7 +4,7 @@ Sometimes I will try crafting some intriguing gizmos, like balance cars, railgun
 
 In my spare time, I often solve CP problems from the platforms listed below. Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
 
-[![Codeforces-DarkS0uls](https://img.shields.io/badge/Codeforces: DarkS0uls-Pupil_1371-008000?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
-[![AtCoder-DarkS0uls](https://img.shields.io/badge/atcoder: DarkS0uls-10 Kyu_215-808080?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
-[![LeetCode-DarkS0uls](https://img.shields.io/badge/leetcode: DarkS0uls-1618-0000ff?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_1371-008000?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
+[![AtCoder](https://img.shields.io/badge/atcoder-10 Kyu_215-808080?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
+[![LeetCode](https://img.shields.io/badge/leetcode-1618-0000ff?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
 
