@@ -6,5 +6,5 @@ In my spare time, I often solve CP problems from the platforms listed below. Not
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_1371-008000?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
 [![AtCoder](https://img.shields.io/badge/atcoder-10 Kyu_215-808080?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
-[![LeetCode](https://img.shields.io/badge/leetcode-1618-0000ff?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
+[![LeetCode](https://img.shields.io/badge/leetcode-1723-0000ff?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
 
