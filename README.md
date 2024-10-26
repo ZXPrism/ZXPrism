@@ -1,4 +1,4 @@
-I am **ZXPrism**, a person who is insterested in a wide variety of things, especially in **computer graphics** and **embeded development**. **Theoretical physics**, **probability theory** and **game theory** are also much to my taste.
+I am **ZXPrism**, a person who is insterested in a wide variety of things, especially in **computer graphics** and **embedded development**. **Theoretical physics**, **probability theory** and **game theory** are also much to my taste.
 
 Sometimes I will try crafting some intriguing gizmos, like balance cars, railguns, etc. To be honest, none of them worked fine as expected, but I just love them.
 
