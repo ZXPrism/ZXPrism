@@ -7,8 +7,7 @@ In my spare time, I often solve CP problems from the platforms listed below. Not
 ![ZXPrism's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZXPrism&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXPrism&layout=compact&exclude_repo=ZXPrism.github.io,EmbeddedSystemDesign)
 
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_1372-008000?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
+[![Codeforces](https://img.shields.io/badge/Codeforces-S_1427-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
 [![AtCoder](https://img.shields.io/badge/atcoder-8 Kyu_577-804000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
 [![LeetCode](https://img.shields.io/badge/leetcode-1774-0000ff?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
 
