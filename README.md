@@ -8,6 +8,6 @@ In my spare time, I often solve CP problems from the platforms listed below. Not
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXPrism&layout=compact&exclude_repo=ZXPrism.github.io,EmbeddedSystemDesign)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-S_1435-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
-[![AtCoder](https://img.shields.io/badge/atcoder-8 Kyu_577-804000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
+[![AtCoder](https://img.shields.io/badge/atcoder-7 Kyu_636-804000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
 [![LeetCode](https://img.shields.io/badge/leetcode-1846-0000ff?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
 
