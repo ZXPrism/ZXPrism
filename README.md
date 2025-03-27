@@ -4,6 +4,8 @@ Sometimes I will try crafting some intriguing gizmos, like balance cars, railgun
 
 In my spare time, I often solve CP problems from the platforms listed below. Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
 
+*Making fast things, making slow things fast and making fast things faster*.
+
 ![ZXPrism's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZXPrism&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXPrism&layout=compact&exclude_repo=ZXPrism.github.io,EmbeddedSystemDesign)
 
