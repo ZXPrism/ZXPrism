@@ -2,7 +2,7 @@ I am **ZXPrism**, a person who is insterested in a wide variety of things, espec
 
 Sometimes I will try crafting some intriguing gizmos, like balance cars, railguns, etc. To be honest, none of them worked fine as expected, but I just love them.
 
-In my spare time, I often solve CP problems from the platforms listed below. Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
+In my spare time, I often solve CP(competitive programming) problems from the platforms like Codeforces, Atcoder, Leetcode, etc. Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
 
 *Making fast things, making slow things fast and making fast things faster*.
 
