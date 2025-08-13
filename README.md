@@ -1,3 +1,5 @@
+*Making fast things, making slow things fast and making fast things faster*.
+
 I am **ZXPrism**, a person who is insterested in a wide variety of things.
 
 Currently, I am focusing on:
@@ -31,5 +33,3 @@ ZQIDAQAB
 [![Codeforces](https://img.shields.io/badge/Codeforces-SPECIALIST_1476-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
 [![AtCoder](https://img.shields.io/badge/atcoder-6 Kyu_812-008000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
 [![LeetCode](https://img.shields.io/badge/leetcode-Knight_1923-a000a0?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
-
-*Making fast things, making slow things fast and making fast things faster*.
