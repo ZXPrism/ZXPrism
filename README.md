@@ -13,10 +13,6 @@ In my spare time, I often solve CP(competitive programming) problems from the pl
 <!--
 ![ZXPrism's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZXPrism&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXPrism&layout=compact&exclude_repo=ZXPrism.github.io,EmbeddedSystemDesign)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-SPECIALIST_1476-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
-[![AtCoder](https://img.shields.io/badge/atcoder-6 Kyu_812-008000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
-[![LeetCode](https://img.shields.io/badge/leetcode-Knight_1923-a000a0?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
 -->
 
 Public Key (RSA 2048-bit, OAEP):
@@ -31,5 +27,9 @@ DGB2CJ9hrmemq06ra9zl3HKsw8FxeqdFJ8dN6/qCa6viPpgDZJVXRLWBPoxugfhY
 ZQIDAQAB
 -----END PUBLIC KEY-----
 ```
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-SPECIALIST_1476-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
+[![AtCoder](https://img.shields.io/badge/atcoder-6 Kyu_812-008000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
+[![LeetCode](https://img.shields.io/badge/leetcode-Knight_1923-a000a0?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
 
 *Making fast things, making slow things fast and making fast things faster*.
