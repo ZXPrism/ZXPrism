@@ -4,7 +4,7 @@ I am **ZXPrism**, a person who is insterested in a wide variety of things.
 
 Currently, I am focusing on:
 
-- computer graphics (rendering)
+- computer graphics
 - algorithms & optimizations
 - heterogeneous computing
 
