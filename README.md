@@ -17,17 +17,29 @@ In my spare time, I often solve CP(competitive programming) problems from the pl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXPrism&layout=compact&exclude_repo=ZXPrism.github.io,EmbeddedSystemDesign)
 -->
 
-Public Key (RSA 2048-bit, OAEP):
 ```
------BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxACs+pLXWBkmobhFt4dT
-g4o2K5DGRXbfm5pmar2qMAQ9tRa+TNFRHPMyibZXgU4KWGb/+fCdIxyPY5hIZEnR
-Q3aWkjtgYYKxuSqQIlJpF9eiZdlo/YqZy40q193iLXgXlj2tllcROU/bvWCh9hJg
-bWJzmjxmyoovYj+hkkSmQkxbiAXnNKbFKhsQhE378GO5YykqpZB84qurP8n7FE3R
-Y2fKojOYbjTDHftnDlLLlabX8G0LeadJkU4o38q5RihgwA0D7WCEULlFnJxuZ0Gi
-DGB2CJ9hrmemq06ra9zl3HKsw8FxeqdFJ8dN6/qCa6viPpgDZJVXRLWBPoxugfhY
-ZQIDAQAB
------END PUBLIC KEY-----
+>>> import this
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
 ```
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-SPECIALIST_1476-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
