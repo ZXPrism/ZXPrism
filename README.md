@@ -11,7 +11,7 @@ Currently, I'm focusing on:
 
 Sometimes I will try crafting some intriguing gizmos, like balance cars, railguns, etc. To be honest, none of them worked fine as expected, but I just love them.
 
-In my spare time, I often solve CP(competitive programming) problems from the platforms like Codeforces, Atcoder, Leetcode, etc. Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
+In my spare time, I often solve CP(competitive programming) problems from the platforms like Codeforces, Atcoder, Leetcode, etc. Taking intellectual challenges is always fun! Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
 
 <!--
 ![ZXPrism's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZXPrism&show_icons=true&theme=transparent)
