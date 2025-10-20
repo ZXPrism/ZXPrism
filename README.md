@@ -4,10 +4,10 @@ I am **ZXPrism**, a person who is insterested in a wide variety of things.
 
 Currently, I'm focusing on:
 
-- computer graphics
-- parallel computing
-- embedded development
-- control systems
+- computer graphics 💡
+- parallel computing 🚿
+- embedded development 🪸
+- control systems 🤖
 
 Sometimes I will try crafting some intriguing gizmos, like balance cars, railguns, etc. To be honest, none of them worked fine as expected, but I just love them.
 
