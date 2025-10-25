@@ -1,6 +1,6 @@
 *Making fast things, making slow things fast and making fast things faster*.
 
-I am **ZXPrism**, a person who is insterested in a wide variety of things.
+I am **ZXPrism**, a person who is insterested in a wide variety of things. And literally, I love everything that interests me.
 
 Currently, I'm focusing on:
 
@@ -8,6 +8,7 @@ Currently, I'm focusing on:
 - parallel computing 🚿
 - embedded development 🪸
 - control systems 🤖
+- and many other fun stuff 😂
 
 Sometimes I will try crafting some intriguing gizmos, like balance cars, railguns, etc. To be honest, none of them worked fine as expected, but I just love them.
 
