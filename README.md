@@ -6,6 +6,7 @@ Currently, I'm focusing on:
 
 - computer graphics 💡
 - parallel computing 🚿
+- heuristics 🧐
 - embedded development 🪸
 - control systems 🤖
 - and many other fun stuff 😂
