@@ -1,27 +1,4 @@
-*Making fast things, making slow things fast and making fast things faster*.
-
-I am **ZXPrism**, a person who is insterested in a wide variety of things. And literally, I love everything that interests me.
-
-Currently, I'm focusing on:
-
-- computer graphics 💡
-- parallel computing 🚿
-- heuristics 🧐
-- embedded development 🪸
-- control systems 🤖
-- and many other fun stuff 😂
-
-Sometimes I will try crafting some intriguing gizmos, like balance cars, railguns, etc. To be honest, none of them worked fine as expected, but I just love them.
-
-In my spare time, I often solve CP(competitive programming) problems from the platforms like Codeforces, Atcoder, Leetcode, etc. Taking intellectual challenges is always fun! Not having paticipated in any offline contests before though, I wish I could have such opportunities in the future.
-
-<!--
-![ZXPrism's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZXPrism&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXPrism&layout=compact&exclude_repo=ZXPrism.github.io,EmbeddedSystemDesign)
--->
-
 ```
->>> import this
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
