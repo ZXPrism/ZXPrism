@@ -1,5 +1,7 @@
+# 0
 From the past, at present, to futures...
 
+# 1
 ```
 The Zen of Python, by Tim Peters
 
@@ -24,6 +26,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
+# 2
 [![Codeforces](https://img.shields.io/badge/Codeforces-SPECIALIST_1476-03a89e?style=for-the-badge)](https://codeforces.com/profile/DarkS0uls)
 [![AtCoder](https://img.shields.io/badge/atcoder-6 Kyu_812-008000?style=for-the-badge)](https://atcoder.jp/users/DarkS0uls)
 [![LeetCode](https://img.shields.io/badge/leetcode-Knight_1923-a000a0?style=for-the-badge)](https://leetcode.cn/u/zhouleyi2003/)
