@@ -1,6 +1,8 @@
 # 0
 From the past, at present, to futures...
 
+Love anything that interests me.
+
 # 1
 ```
 The Zen of Python, by Tim Peters
