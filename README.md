@@ -1,3 +1,4 @@
 - Love anything that interests me.
 - Do not seek so-called external validation if you really want to do sth.
 - Try finding the 20%.
+- DO WTF I WANT.
