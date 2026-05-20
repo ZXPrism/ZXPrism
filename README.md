@@ -2,6 +2,6 @@
 - Do not seek so-called external validation if you really want to do sth.
 - Try finding the 20%.
 - Time is resource, use it.
-- Debug the causal chain via perturbing, not walking step by step
+- Debug the causal chain via perturbing, not walking step by step.
 - Dissect grand things. Do not treat them as magic. Do not blame yourself for not being able to make them.
 - DO WTF I WANT.
