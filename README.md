@@ -3,5 +3,5 @@
 - Try finding the 20%.
 - Time is resource, use it.
 - Debug the causal chain via perturbing, not walking step by step.
-- Dissect grand things. Do not treat them as magic. Do not blame yourself for not being able to make them.
+- Dissect grand things. Do not treat them as magic. Do not blame myself for not being able to make them. I absolutely can.
 - DO WTF I WANT.
