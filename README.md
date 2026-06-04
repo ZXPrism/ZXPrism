@@ -4,4 +4,5 @@
 - Time is resource, use it.
 - Debug the causal chain via perturbing, not walking step by step.
 - Dissect grand things. Do not treat them as magic. Do not blame myself for not being able to make them. I absolutely can.
+- Do ablation to understand complex systems.
 - DO WTF I WANT.
