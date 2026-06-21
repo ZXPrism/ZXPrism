@@ -7,4 +7,5 @@
 - Do ablation to understand complex systems.
 - Control the scope of deep understanding.
 - Get some inputs if needed.
+- Talk.
 - DO WTF I WANT.
