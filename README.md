@@ -1,11 +1,7 @@
-- Love anything that interests me.
-- Do not seek so-called external validation if you really want to do sth.
-- Try finding the 20%.
-- Time is resource, use it.
-- Debug the causal chain via perturbing, not walking step by step.
-- Dissect grand things. Do not treat them as magic. Do not blame myself for not being able to make them. I absolutely can.
-- Do ablation to understand complex systems.
-- Control the scope of deep understanding.
-- Get some inputs if needed.
-- Talk.
-- DO WTF I WANT.
+0: wasteland, cabin, galaxy, flowing light, Saturn
+1: desert, mountain, temple, tourist, divergence
+2: park, fountain, sun, nap
+4: grading, graduation, determination
+5: team, sharing, lights, pity
+6: grass, wind, autumn, alone
+7: now
